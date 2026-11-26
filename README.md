@@ -1,4 +1,12 @@
-<p align="center"><img src="icon-512.png" width="120" alt="XYX Anatomy logo"></p>
+<p align="center"><img src="docs/banner.svg" width="100%" alt="banner"></p>
+
+<p align="center">
+  <a href="https://xyx-anatomy.netlify.app"><img src="https://img.shields.io/badge/Live_demo-xyx--anatomy.netlify.app-5ef0ff?style=for-the-badge&labelColor=03050b&logo=netlify&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/3D-WebGL-ff4fd8?style=for-the-badge&labelColor=03050b&logo=webgl&logoColor=white">
+  <img src="https://img.shields.io/badge/Structures-2%2C457-9b7bff?style=for-the-badge&labelColor=03050b">
+  <img src="https://img.shields.io/badge/PWA-offline-5ef0ff?style=for-the-badge&labelColor=03050b&logo=pwa&logoColor=white">
+  <img src="https://img.shields.io/badge/Data-BodyParts3D_%C2%B7_HuBMAP_%C2%B7_Uberon-ff4fd8?style=for-the-badge&labelColor=03050b">
+</p>
 
 # XYX Anatomy — Interactive 3D Human Anatomy Atlas
 
